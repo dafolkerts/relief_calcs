@@ -1,2 +1,2 @@
 # relief_calcs
-Jupyter Notebooks used for calculations with refrigeration relief valves and discharge piping
+Jupyter Notebooks and Python programs used for calculations with refrigeration relief valves and discharge piping
